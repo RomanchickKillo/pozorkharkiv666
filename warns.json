@@ -1,0 +1,17 @@
+{
+    "5204334001": {
+        "warns": 3,
+        "banned": true,
+        "reason": "обнажонка"
+    },
+    "7517946327": {
+        "warns": 2,
+        "banned": false,
+        "reason": "ТЕСТ"
+    },
+    "8818647473": {
+        "warns": 1,
+        "banned": false,
+        "reason": "test"
+    }
+}
