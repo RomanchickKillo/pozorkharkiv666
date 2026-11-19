@@ -23,7 +23,7 @@ from aiogram.fsm.storage.base import StorageKey
 from aiogram.enums import ChatMemberStatus
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "8395537898:AAECE1LFhXi0LrDeREVoMJfwLaUw0oniUvc"
+BOT_TOKEN = "8395537898:AAFc_ZNiLjJnKB3UxRZ9W2VigndTYiVrfh4"
 MAIN_ADMIN_ID = 5938341230  
 SUB_ADMIN_IDS = [8289191835]  
 ADMINS = [MAIN_ADMIN_ID] + SUB_ADMIN_IDS  
